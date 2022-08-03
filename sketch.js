@@ -153,7 +153,7 @@ function draw() {
     
     checkCollideBorder();
     
-   // updateRectPlayerTwo();
+    updateRectPlayerTwo();
     
     updateDiamaterBol();
 
